@@ -15,6 +15,8 @@
 ## working directory에 변동이 있을 때마다 하는 작업
     * `.git`이 있는 폴더 경로에서만 가능
 ### `git add`
+    * add할 파일 명도 적어줘야함
+        - e.g. `git add .`
 
 ### `git commit`
 
